@@ -137,7 +137,7 @@ Edit init.php, uncomment the custom template line and give it your folder name.
 
 You now have your own theme. Enjoy.
 
-#### Payu support?
+#### Patu support?
 
 Yeah, go ahead and add a patu.txt file to your root MWW folder. It will just work.
 
