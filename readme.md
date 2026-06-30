@@ -109,21 +109,21 @@ Not a lot. I use it to set an author, some flags (one), the page title, page
 description, and some document meta. Mostly just doc meta. I tend to track 
 changes with a manual version history. Like this:
 
-`---
-title: Matt's Links
-description: Many of the ways to find Matt on the web
-meta: 
-    Created: 20 June 2025
-    Version: 2.00.000
-    Status: Never going to be finished
-    keywords: keyword1, keyword2
-    history:
-        14 November 2025: Converted to MD and added new links
-        20 June 2025: Created with code
-    flags: 
-        flag: relMeList
-author: @LordMatt
----`
+    ---
+    title: Matt's Links
+    description: Many of the ways to find Matt on the web
+    meta: 
+        Created: 20 June 2025
+        Version: 2.00.000
+        Status: Never going to be finished
+        keywords: keyword1, keyword2
+        history:
+            14 November 2025: Converted to MD and added new links
+            20 June 2025: Created with code
+        flags: 
+            flag: relMeList
+    author: @LordMatt
+    ---
 
 #### How do I make a new theme?
 
