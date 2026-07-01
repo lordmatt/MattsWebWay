@@ -1,0 +1,8 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+# If requested resource exists as a file or directory, skip next rule
+RewriteCond %{DOCUMENT_ROOT}/$1 -f
+RewriteRule (.*) - [L]
+
+RewriteRule ^(.*)$ /index.php [L] 

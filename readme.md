@@ -139,7 +139,7 @@ You now have your own theme. Enjoy.
 
 #### Patu support?
 
-Yeah, go ahead and add a patu.txt file to your root MWW folder. It will just work.
+Yeah, go ahead and add a [patu.txt](https://github.com/akrito/patu/tree/master) file to your root MWW folder. It will just work.
 
 #### Robots?
 
