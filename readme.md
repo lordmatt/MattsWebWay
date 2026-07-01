@@ -21,7 +21,7 @@ point here.
 
 ## Directory/Folder names
 
-You can use any directory/folder naming you want. I strony suggest replacing 
+You can use any directory/folder naming you want. I strongly suggest replacing 
 spaces with - or _ but only because the URL looks nicer. 
 
 There are three folders it is unwise to use:
@@ -72,13 +72,14 @@ To enable it, edit /plugins/init.php and remove the #s to uncomment the two line
 MWW is designed to use directories (folders) as files. There is an order MWW looks
 for root files in:
 
-1. home.md
-2. index.php
-3. index.md
+1. index.php
+2. index.md
 
-When it finds one it stops looking. home.md is the recommended file name. The
+When it finds one it stops looking. index.md is the recommended file name. The
 others are just for compatibility with stuff I was trying out.
 
+The exception is the root directory which uses index.php to do work. There you 
+want home.md
 
 ## FAQ
 
